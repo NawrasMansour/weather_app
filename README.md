@@ -1,6 +1,10 @@
-# vue-project
+# weather-app
 
 This template should help get you started developing with Vue 3 in Vite.
+
+## languages Used In
+ * Vue 3
+ * Tailwind
 
 ## Recommended IDE Setup
 
